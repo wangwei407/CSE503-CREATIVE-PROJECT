@@ -1,5 +1,5 @@
 # CSE503-CREATIVE-PROJECT (5 points from this rubic)
-### House Sites (AngularJs+PHP) (40 points)
+### House Sites (AngularJs) (40 points)
 * New users can register (3 points)
 * Users can log out (3 points)
 * A user can edit and delete his/her own comments but cannot edit or delete the comments of another user (8 points)
